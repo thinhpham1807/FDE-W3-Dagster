@@ -1,0 +1,8 @@
+[32m2024-07-09 13:57:19 +0700[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 28668297-ecd7-4997-b96a-90adad644916 - 15533 - LOGS_CAPTURED - Started capturing logs in process (pid: 15533).
+[32m2024-07-09 13:57:19 +0700[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 28668297-ecd7-4997-b96a-90adad644916 - 15533 - my_first_asset - STEP_START - Started execution of step "my_first_asset".
+[32m2024-07-09 13:57:19 +0700[0m - dagster - [34mINFO[0m - __ASSET_JOB - 28668297-ecd7-4997-b96a-90adad644916 - my_first_asset - This is my first asset
+[32m2024-07-09 13:57:19 +0700[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 28668297-ecd7-4997-b96a-90adad644916 - 15533 - my_first_asset - STEP_OUTPUT - Yielded output "result" of type "Any". (Type check passed).
+[32m2024-07-09 13:57:19 +0700[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 28668297-ecd7-4997-b96a-90adad644916 - my_first_asset - Writing file at: /home/kebinrom/FDE/week_3/etl_pipeline/tmpr4fdc51h/storage/my_first_asset using PickledObjectFilesystemIOManager...
+[32m2024-07-09 13:57:19 +0700[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 28668297-ecd7-4997-b96a-90adad644916 - 15533 - my_first_asset - ASSET_MATERIALIZATION - Materialized value my_first_asset.
+[32m2024-07-09 13:57:19 +0700[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 28668297-ecd7-4997-b96a-90adad644916 - 15533 - my_first_asset - HANDLED_OUTPUT - Handled output "result" using IO manager "io_manager"
+[32m2024-07-09 13:57:19 +0700[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 28668297-ecd7-4997-b96a-90adad644916 - 15533 - my_first_asset - STEP_SUCCESS - Finished execution of step "my_first_asset" in 74ms.
